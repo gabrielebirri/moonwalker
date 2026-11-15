@@ -1,5 +1,5 @@
 # moonwalker
-This repository explores the concept of using reinforcement learning and other machine learning techniques to perform a fast and automatic assesment of possible lunar landing sites by means of:
+This repository explores the concept of using reinforcement learning and other machine learning techniques to perform a fast and automatic assessment of possible lunar landing sites by means of:
 - Sun, Earth and telecommunication satellites (present and future ones) visibility
 - Terrain safety and general environment for a lunar outpost
 - Soil composition and possible scientific value
