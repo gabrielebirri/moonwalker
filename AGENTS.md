@@ -2,8 +2,10 @@
 
 ## Project overview
 
-Moonwalker is a project to deploy a swarm of agents to analyze and evaluate possible lunar landing sites for future missions.
-Main language: Python
+Moonwalker is a project to deploy a swarm of agents to analyze and evaluate possible lunar landing sites for future missions.  
+
+Main language: Python  
+
 NOTE: past and current design choices can be found inside "BRAINSTORMING.md"
 
 ## Setup and commands
